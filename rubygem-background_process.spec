@@ -41,3 +41,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/README.textile
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Thu Dec 02 2010 Rémy Clouard <shikamaru@mandriva.org> 1.2-1mdv2011.0
++ Revision: 605350
+- import rubygem-background_process
+
