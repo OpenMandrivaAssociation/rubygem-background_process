@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.2
-Release:    3
+Release:    4
 Summary:    A library for spawning and interacting with UNIX processes
 Group:      Development/Ruby
 License:    MIT
