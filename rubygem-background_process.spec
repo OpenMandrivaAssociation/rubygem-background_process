@@ -6,7 +6,7 @@ Release:    4
 Summary:    A library for spawning and interacting with UNIX processes
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/timcharper/background_process
+URL:        https://github.com/timcharper/background_process
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 Requires:   rubygems
 BuildRequires: rubygems
